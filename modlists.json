@@ -1,0 +1,39 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "Bread - An Immersive Modern CS Modlist (Bilingual)",
+    "description": "Vision: Stability ∙ Bug Fix ∙ Lore Integrity ∙ Detail Refinement ∙ Immersion",
+    "author": "paomian",
+    "maintainers": [
+      "github/nowatermelon"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "SFW",
+      "Steam",
+      "Vanilla+"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "",
+      "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/149063",
+      "download": "https://www.nexusmods.com/skyrimspecialedition/mods/149063",
+      "machineURL": "BreadAnImmersiveModernCSModlistBilingual",
+      "discordURL": "https://discord.gg/NR322ygvdu"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "uGx9a3pYsoY=",
+      "Size": 4163519627,
+      "NumberOfArchives": 1629,
+      "SizeOfArchives": 121199515529,
+      "NumberOfInstalledFiles": 213274,
+      "SizeOfInstalledFiles": 167167658026,
+      "TotalSize":288367173555
+    },
+    "version": "1.4.0"
+  }
+]
