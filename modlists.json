@@ -18,8 +18,8 @@
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "",
-      "readme": "https://www.nexusmods.com/skyrimspecialedition/mods/149063",
+      "image": "https://github.com/nowatermelon/skyrim/blob/main/169.jpg",
+      "readme": "https://github.com/nowatermelon/skyrim/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/bread2.0.wabbajack_dcfa4c58-2fbe-4614-acd5-a8ff0ec2a543",
       "machineURL": "BREADWABBAJACKMODLIST",
       "discordURL": "https://discord.gg/NR322ygvdu"
