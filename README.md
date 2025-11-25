@@ -11,6 +11,9 @@ My passion project to reimagine Skyrim. Shared for all adventurers to help make 
 - [System Requirement](#system-requirement)
 - [Installation](#installation)
 - [Post-Installation](#post-installation)
+- [Updating](#updating)
+- [Troubleshooting](#troubleshooting)
+- [Uninstalling](#post-installation)
 - [Credits](#credits)
 
 ---
@@ -21,6 +24,8 @@ My passion project to reimagine Skyrim. Shared for all adventurers to help make 
 Additionally, it supports both **English and Chinese**. You can switch the language in MO2 at any time.
 
 It's not perfect and could probably be polished until the day The Elder Scrolls VI comes out. All ideas are welcome.
+
+Before you ask, see if the [FAQ]() has the answer. Feel free to reach out on [Discord](https://discord.gg/NR322ygvdu) as well.
 
 ---
 
@@ -76,12 +81,11 @@ The steps are the same as installing Bread, just be sure to use the same paths.
 ---
 
 ## Troubleshooting
-crash log
+See the [FAQ]().
 
 ---
 
 ## Uninstalling
-
 Delete the `Bread` folder.
 
 ---
