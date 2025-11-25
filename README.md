@@ -50,5 +50,7 @@ It's not perfect and could probably be polished until the day The Elder Scrolls 
 ## Post-Installation
 
 ## Credits
--All mod authors and the Skyrim modding community.
--
+- [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) & Wabbajack team
+- All mod authors
+- All tool developers
+- All friends who have supported and helped me.
