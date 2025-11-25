@@ -56,9 +56,10 @@ It's not perfect and could probably be polished until the day The Elder Scrolls 
 - I've pre-configured many settings, but players always need to manually adjust some things when starting a new game (e.g. certain mods' MCM, IED). The `Overwrite` folder also has some generated files like the community shader cache. To make setup easier, I've uploaded the `Profile` and `Overwrite` files on Nexus. Just download and drop them into `Bread` folder. The provided save file already includes all the manual configs, all you heve to do is use "Alternate RaceMenu" to redesign your character.
 - Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players in the community for help.
 - Keyboard Keybinds
-- 
-![skyrim](key.png)
+![skyrim](sysreq.png)
+
 *Note: Not all keys are functional. For instance, the `Dialogue History` key no longer works because I removed this mod for stability. But I left it on the keybind list as a placeholder.*
+
 ---
 
 ## Post-Installation
