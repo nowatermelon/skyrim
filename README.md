@@ -97,6 +97,8 @@ This might be a bit much for here. For details, see the [FAQ](https://github.com
 ## Uninstalling
 Delete the `Bread` folder.
 
+Tell me you're not that heartless T_T
+
 ---
 
 ## Credits
