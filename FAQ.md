@@ -1,9 +1,16 @@
 # Bread Frequently Asked Questions
 
 ## Contents
+- [Wabbajack says something failed to download.](#Wabbajack-says-something-failed-to-download)
 - [How do I change the resolution?](#how-do-i-change-the-resolution)
 - [How do I obtain mod items?](#How-do-I-obtain-mod-items)
 - [Where are the crash logs?](#Where-are-the-crash-logs)
+
+---
+## Wabbajack says something failed to download.
+Manually download the missing files and place them into the `Downloads` folder.
+
+See [Wabbajack Wiki](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) for more information.
 
 ---
 ## How do I change the resolution?
