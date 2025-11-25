@@ -55,7 +55,9 @@ It's not perfect and could probably be polished until the day The Elder Scrolls 
 
 ## Post-Installation
 I've pre-configured many settings, but players always need to manually adjust some things when starting a new game (e.g. certain mods' MCM, IED). The `Overwrite` folder also has some generated files like the community shader cache. To make setup easier, I've uploaded the `Profile` and `Overwrite` files on Nexus. Just download and drop them into `Bread` folder. The provided save file already includes all the manual configs, meaning all you have to do is use "Alternate Racemenu" power to redesign your character.
+
 Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players in the community for help.
+
 Keyboard Keybinds
   
 ![skyrim](key.png)
@@ -66,7 +68,9 @@ Keyboard Keybinds
 
 ## Updating
 Check Changelog for useful information.
+
 The steps are the same as installing Bread, just be sure to use the same paths.
+
 ***Note: Any custom files not included in the Modlist will be deleted during updates. To preserve your own edits, you must add the [NoDelete] prefix to these mods' names.***
 
 ---
