@@ -8,9 +8,10 @@ My passion project to reimagine Skyrim. Shared for all adventurers to help make 
 
 ## Contents
 - [Introduction](#introduction)
-- [System Requirements](#system-requirements)
+- [System Requirement](#system-requirement)
 - [Installation](#installation)
-
+- [Post-Installation](#post-installation)
+- [Credits](#credits)
 ---
 
 ## Introduction
@@ -22,7 +23,7 @@ It's not perfect and could probably be polished until the day The Elder Scrolls 
 
 ---
 
-## System Requirements
+## System Requirement
 ![skyrim](sysreq.png)
 
 ## Installation
@@ -45,3 +46,9 @@ It's not perfect and could probably be polished until the day The Elder Scrolls 
     - Find Bread, click “Download & Install”, set installation and downloads paths (e.g. `D:\Bread` and `D:\Bread\Downloads`) and proceed.
 
       Note: Nexus Premium gets automatic downloads; otherwise each mod requires a manual click.
+
+## Post-Installation
+
+## Credits
+-All mod authors and the Skyrim modding community.
+-
