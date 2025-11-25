@@ -18,6 +18,8 @@ My passion project to reimagine Skyrim. Shared for all adventurers to help make 
 
 Additionally, it supports both **English and Chinese**. Although I've found the communities to be quite different, the cultural blending is a fascinating aspect.
 
+It's not perfect and could probably be polished until the day The Elder Scrolls VI comes out. All ideas are welcome!
+
 ---
 
 ## System Requirements
@@ -40,6 +42,6 @@ Additionally, it supports both **English and Chinese**. Although I've found the 
 2. **Wabbajack**
     - ~~Seek the Mad God's shrine. Whisper your madness. Claim your chaos. The Wabbajack awaits.~~
     - Download [wabbajack](https://www.wabbajack.org) to a folder on your drive's root (e.g. `D:\Wabbajack`) to avoid errors. Then run `Wabbajack.exe`.
-    - Find Bread, click “Download & Install”, set installation and downloads pathes (e.g. `D:\Bread` and `D:\Bread\Downloads`) and proceed.
+    - Find Bread, click “Download & Install”, set installation and downloads paths (e.g. `D:\Bread` and `D:\Bread\Downloads`) and proceed.
 
       Note: Nexus Premium gets automatic downloads; otherwise each mod requires a manual click.
