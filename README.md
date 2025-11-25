@@ -36,7 +36,8 @@ It's not perfect and could probably be polished until the day The Elder Scrolls 
 
 2. **Steam**
    - [Disable auto-updates for Skyrim AE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
-   - Set game language to English
+
+   - Set game language to English.
   
      *Note: This step is required for all players (Chinese translations are implemented via mods).*
    - Upon first launch, Skyrim AE will auto-download the DLCs. Stay on this screen until finished, exit only after it's done.
