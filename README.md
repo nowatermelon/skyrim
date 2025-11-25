@@ -67,7 +67,7 @@ It's not perfect and could probably be polished until the day The Elder Scrolls 
 - Check Changelog for useful information.
 - The steps are the same as installing Bread, just be sure to use the same paths.
 
-***Note: All custom files that are not part of the Modlist will be deleted when updating, except for those with prefix [NoDelete]).***
+***Note: Any custom files not included in the Modlist will be deleted during updates. To preserve your own edits, you must add the [NoDelete] prefix to these mods' names.***
 
 ---
 
