@@ -9,13 +9,26 @@ My passion project to reimagine Skyrim. Shared for all adventurers to help make 
 ## Contents
 - [Introduction](#introduction)
 - [System Requirements](#system-requirements)
+- [Installation](#installation)
 
 ---
 
 ## Introduction
-**Bread** is a total overhaul modlist built around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492)
+**Bread** is a complete overhaul modlist for Skyrim AE (1.6.1170) with all DLCs, built around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). It significantly expands content across all aspects (at ~170 esp slots), aiming to breathe lasting vitality into Skyrim while striving to remain lore-friendly.
+
+Additionally, it supports both **English and Chinese**. Although I've found the communities to be quite different, the cultural blending is a fascinating aspect.
 
 ---
 
 ## System Requirements
 ![skyrim](sysreq.png)
+
+## Installation
+1. **Microsoft**:
+   - [Visual C++ Redistributable latest version x64](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist).
+   - [.NET latest version x64](https://dotnet.microsoft.com/en-us/download).
+
+2. **Steam**:
+   - [Disable auto-updates for Skyrim AE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+   - Upon first launch, Skyrim AE will auto-download the DLCs. Stay on this screen until finished, exit only after it's done.
+     Note: If you have DLC problems during installation, delete the game and redo this step.
