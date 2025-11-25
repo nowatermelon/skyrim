@@ -24,12 +24,18 @@ Additionally, it supports both **English and Chinese**. Although I've found the 
 ![skyrim](sysreq.png)
 
 ## Installation
-1. **Microsoft**:
+1. **Microsoft**
    - [Visual C++ Redistributable latest version x64](https://learn.microsoft.com/en-us/cpp/windows/latest-supported-vc-redist).
    - [.NET latest version x64](https://dotnet.microsoft.com/en-us/download).
 
-2. **Steam**:
+2. **Steam**
    - [Disable auto-updates for Skyrim AE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
+   - Set game language to English
+  
+     Note: Even if you want to play the game in Chinese, you still need to complete this step. The Chinese translation is implemented through mods.
    - Upon first launch, Skyrim AE will auto-download the DLCs. Stay on this screen until finished, exit only after it's done.
 
      Note: If you have DLC problems during installation, delete the game and redo this step.
+
+2. **Wabbajack**
+   Not the legendary staff, but [this file](https://www.wabbajack.org). After download, it must go into a folder like D:\Wabbajack to avoid errors. Then run `Wabbajack.exe`.
