@@ -27,6 +27,6 @@ Press `delete` to use [Modex](https://www.nexusmods.com/skyrimspecialedition/mod
 ## Where are the crash logs?
 Open the `My Games` folder.
 
-<img src="https://github.com/nowatermelon/skyrim/blob/main/mygame.png" width="60%">
+<img src="https://github.com/nowatermelon/skyrim/blob/main/mygame.png" width="40%">
 
  Then go to the `SKSE` folder within it and search for "crash". You'll see files like `crash-2025-11-22-01-56-21.log`.
