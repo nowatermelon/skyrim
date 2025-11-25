@@ -8,9 +8,11 @@
 
 ---
 ## Wabbajack says something failed to download.
-Manually download the missing files and place them into the `Downloads` folder.
+If the files are related to the DLCs, check the ['Installation'](https://github.com/nowatermelon/skyrim/blob/main/README.md#Installation) part.
 
-See [Wabbajack Wiki](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) for more information.
+Otherwise, manually download the missing files and place them into the `Downloads` folder.
+
+See [Wabbajack Wiki](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) for detailed information.
 
 ---
 ## How do I change the resolution?
@@ -37,3 +39,5 @@ Open the `My Games` folder.
 <img src="https://github.com/nowatermelon/skyrim/blob/main/mygame.png" width="40%">
 
  Then go to the `SKSE` folder within it and search for "crash". You'll see files like `crash-2025-11-22-01-56-21.log`.
+
+ [[Top]](#contents)
