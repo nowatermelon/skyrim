@@ -31,4 +31,5 @@ Additionally, it supports both **English and Chinese**. Although I've found the 
 2. **Steam**:
    - [Disable auto-updates for Skyrim AE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
    - Upon first launch, Skyrim AE will auto-download the DLCs. Stay on this screen until finished, exit only after it's done.
+
      Note: If you have DLC problems during installation, delete the game and redo this step.
