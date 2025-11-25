@@ -35,22 +35,24 @@ It's not perfect and could probably be polished until the day The Elder Scrolls 
    - [Disable auto-updates for Skyrim AE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
    - Set game language to English
   
-     Note: This step is required for all players (Chinese translations are implemented via mods).
+     *Note: This step is required for all players (Chinese translations are implemented via mods).*
    - Upon first launch, Skyrim AE will auto-download the DLCs. Stay on this screen until finished, exit only after it's done.
 
-     Note: If you have DLC problems during installation, delete the game and redo this step.
+     *Note: If you have DLC problems during installation, delete the game and redo this step.*
 
 2. **Wabbajack**
     - ~~Seek the Mad God's shrine. Whisper your madness. Claim your chaos. The Wabbajack awaits.~~
     - Download [wabbajack](https://www.wabbajack.org) to a folder on your drive's root (e.g. `D:\Wabbajack`) to avoid errors. Then run `Wabbajack.exe`.
     - Find Bread, click “Download & Install”, set installation and downloads paths (e.g. `D:\Bread` and `D:\Bread\Downloads`) and proceed.
 
-      Note: Nexus Premium gets automatic downloads; otherwise each mod requires a manual click.
+      *Note: Nexus Premium gets automatic downloads; otherwise each mod requires a manual click.*
 
 ## Post-Installation
+ 
 
 ## Credits
+- Todd Howard for It Just Works
 - [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) & Wabbajack team
 - All mod authors
 - All tool developers
-- All friends who have supported and helped me.
+- All friends who have supported and helped me
