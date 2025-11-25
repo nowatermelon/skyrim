@@ -25,7 +25,7 @@ Additionally, it supports both **English and Chinese**. You can switch the langu
 
 It's not perfect and could probably be polished until the day The Elder Scrolls VI comes out. All ideas are welcome.
 
-Before you ask, see if the [FAQ]() has the answer. Feel free to reach out on [Discord](https://discord.gg/NR322ygvdu) as well.
+Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/main/FAQ.md) has the answer. Feel free to reach out on [Discord](https://discord.gg/NR322ygvdu) as well.
 
 ---
 
@@ -81,7 +81,7 @@ The steps are the same as installing Bread, just be sure to use the same paths.
 ---
 
 ## Troubleshooting
-See the [FAQ]().
+See the [FAQ](https://github.com/nowatermelon/skyrim/blob/main/FAQ.md).
 
 ---
 
