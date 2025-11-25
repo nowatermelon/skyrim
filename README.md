@@ -18,9 +18,9 @@ My passion project to reimagine Skyrim. Shared for all adventurers to help make 
 ## Introduction
 **Bread** is a complete overhaul modlist for Skyrim AE (1.6.1170) with all DLCs, built around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). It significantly expands content across all aspects (at ~170 esp slots), aiming to breathe lasting vitality into Skyrim while striving to remain lore-friendly.
 
-Additionally, it supports both **English and Chinese**. Although I've found the communities to be quite different, the cultural blending is a fascinating aspect.
+Additionally, it supports both **English and Chinese**. You can switch the language in MO2 at any time.
 
-It's not perfect and could probably be polished until the day The Elder Scrolls VI comes out. All ideas are welcome!
+It's not perfect and could probably be polished until the day The Elder Scrolls VI comes out. All ideas are welcome.
 
 ---
 
@@ -60,7 +60,7 @@ Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with 
 
 Keyboard Keybinds
   
-![skyrim](key.png)
+![skyrim](keybind.png)
 
 *Note: Not all keys are functional. For instance, the `Dialogue History` key no longer works because I removed this mod for stability. But I left it on the keybind list as a reminder.*
 
