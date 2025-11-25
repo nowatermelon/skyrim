@@ -97,12 +97,12 @@ The steps are the same as installing Bread, just be sure to use the same paths.
 This might be a bit much for here. For details, see the [FAQ](https://github.com/nowatermelon/skyrim/blob/main/FAQ.md).
 
 Includes:
-- Wabbajack 
+- Wabbajack says something failed to download.
 - How do I change the resolution?
 - How do I quickly get items from mods?
 - Where are the crash logs?
   
-  ... ... ... ...
+  ... ... ... ... ... ...
 
   
 ---
