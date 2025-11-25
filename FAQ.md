@@ -3,7 +3,7 @@
 ## Contents
 - [How do I change the resolution?](#how-do-i-change-the-resolution)
 - [How do I obtain mod items?](#How-do-I-obtain-mod-items)
-- [Where are the crash logs?](#Where are the crash logs?)
+- [Where are the crash logs?](#Where-are-the-crash-logs?)
 
 ---
 ## How do I change the resolution?
