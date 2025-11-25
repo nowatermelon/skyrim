@@ -39,4 +39,7 @@ Additionally, it supports both **English and Chinese**. Although I've found the 
 
 2. **Wabbajack**
     - ~~Seek the Mad God's shrine. Whisper your madness. Claim your chaos. The Wabbajack awaits.~~
-    - Sorry, it's actually [this file](https://www.wabbajack.org). After download, it must go into a folder like `D:\Wabbajack` to avoid errors. Then run `Wabbajack.exe`.
+    - Sorry, it's actually [this file](https://www.wabbajack.org). After download, it must go into a folder on drive’s root like `D:\Wabbajack` to avoid errors. Then run `Wabbajack.exe`.
+    - Find Bread and click “Download & Install”. Set installation and downloads location (e.g. `D:\Bread` and `D:\Bread\Downloads`). Then Install.
+
+      Note: Nexus Premium gets automatic downloads; otherwise each mod requires a manual click.
