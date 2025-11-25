@@ -58,7 +58,7 @@ I've pre-configured many settings, but players always need to manually adjust so
 
 Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players in the community for help.
 
-Keyboard Keybinds
+<center>Keyboard Keybinds</center
   
 ![skyrim](keybind.png)
 
@@ -82,7 +82,7 @@ crash log
 
 ## Uninstalling
 
-Delete the Bread folder.
+Delete the `Bread` folder.
 
 ---
 
