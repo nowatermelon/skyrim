@@ -59,18 +59,18 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 ---
 
 ## Post-Installation
-1.Set MO2 language.
+1. Set MO2 language.
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/language1.png" width="50%">
 
-2.Restore the backup as a precaution. It will set the game language at the same time.
+2. Restore the backup as a precaution. It will set the game language at the same time.
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/language2.png" width="50%">
 
 
-3.I've pre-configured many settings, but players always need to manually adjust some things when starting a new game (e.g. certain mods' MCM, IED). The `Overwrite` folder also has some generated files like the community shader cache. To make setup easier, I've uploaded the `Profile` and `Overwrite` files on Nexus. Just download and drop them into `Bread` folder. The provided save file already includes all the manual configs, meaning all you have to do is use "Alternate Racemenu" power to redesign your character.
+3. I've pre-configured many settings, but players always need to manually adjust some things when starting a new game (e.g. certain mods' MCM, IED). The `Overwrite` folder also has some generated files like the community shader cache. To make setup easier, I've uploaded the `Profile` and `Overwrite` files on Nexus. Just download and drop them into `Bread` folder. The provided save file already includes all the manual configs, meaning all you have to do is use "Alternate Racemenu" power to redesign your character.
 
-4.Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players in the community for help.
+4. Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players in the community for help.
 
 <div align="center">Keyboard Keybinds</div>
 
