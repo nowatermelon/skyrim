@@ -38,4 +38,5 @@ Additionally, it supports both **English and Chinese**. Although I've found the 
      Note: If you have DLC problems during installation, delete the game and redo this step.
 
 2. **Wabbajack**
-   Not the legendary staff, but [this file](https://www.wabbajack.org). After download, it must go into a folder like D:\Wabbajack to avoid errors. Then run `Wabbajack.exe`.
+   
+   Not the legendary staff, but [this file](https://www.wabbajack.org). After download, it must go into a folder like `D:\Wabbajack` to avoid errors. Then run `Wabbajack.exe`.
