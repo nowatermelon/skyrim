@@ -93,9 +93,10 @@ The steps are the same as installing Bread, just be sure to use the same paths.
 This might be a bit much for here. For details, see the [FAQ](https://github.com/nowatermelon/skyrim/blob/main/FAQ.md).
 
 Includes:
-- [How do I change the resolution?]
-- [How do I obtain mod items?]
-- [Where are the crash logs?]
+- How do I change the resolution?
+- How do I obtain mod items?
+- Where are the crash logs?
+  
 ...
   
 ---
