@@ -32,7 +32,7 @@ Additionally, it supports both **English and Chinese**. Although I've found the 
    - [Disable auto-updates for Skyrim AE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
    - Set game language to English
   
-     Note: Even if you want to play the game in Chinese, you still need to complete this step. The Chinese translation is implemented through mods.
+     Note: This step is required for all players (Chinese translations are implemented via mods).
    - Upon first launch, Skyrim AE will auto-download the DLCs. Stay on this screen until finished, exit only after it's done.
 
      Note: If you have DLC problems during installation, delete the game and redo this step.
@@ -40,6 +40,6 @@ Additionally, it supports both **English and Chinese**. Although I've found the 
 2. **Wabbajack**
     - ~~Seek the Mad God's shrine. Whisper your madness. Claim your chaos. The Wabbajack awaits.~~
     - Download [wabbajack](https://www.wabbajack.org) to a folder on your drive's root (e.g. `D:\Wabbajack`) to avoid errors. Then run `Wabbajack.exe`.
-    - Find Bread and click “Download & Install”. Set installation and downloads location (e.g. `D:\Bread` and `D:\Bread\Downloads`). Then Install.
+    - Find Bread, click “Download & Install”, set installation and downloads pathes (e.g. `D:\Bread` and `D:\Bread\Downloads`) and proceed.
 
       Note: Nexus Premium gets automatic downloads; otherwise each mod requires a manual click.
