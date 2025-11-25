@@ -41,6 +41,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 2. **Steam**
    - Purchase [The Elder Scrolls V: Skyrim Anniversary Edition](https://store.steampowered.com/sub/626153) on Steam.
+     
      *Note: Wabbajack doesn't work with a pirated version.*
      
    - [Disable auto-updates for Skyrim AE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
@@ -101,7 +102,8 @@ Includes:
 - How do I quickly get items from mods?
 - Where are the crash logs?
   
-... ... ... ...
+  ... ... ... ...
+
   
 ---
 
