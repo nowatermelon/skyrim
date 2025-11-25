@@ -76,7 +76,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 4. Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players in the community for help.
 
-<div align="center">Keyboard Keybinds</div>
+<div align="center">Keyboard Layout</div>
 
 ![skyrim](keybind.png)
 
