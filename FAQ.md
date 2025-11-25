@@ -1,9 +1,9 @@
 # Bread Frequently Asked Questions
 
 ## Contents
-- [How do I change the resolution?](#howdoichangetheresolution)
-- [How do I obtain mod items?](#HowdoIobtainmoditems)
-- [Where are the crash logs?](#Wherearethecrashlogs)
+- [How do I change the resolution?](#how-do-i-change-the-resolution)
+- [How do I obtain mod items?](#How-do-I-obtain-mod-items)
+- [Where are the crash logs?](#Where-are-the-crash-logs)
 
 ---
 ## How do I change the resolution?
@@ -19,10 +19,14 @@ Use INI Editor in MO2.
 
 ---
 ## How do I obtain mod items?
-
-
+Press `delete` to use [Modex](https://www.nexusmods.com/skyrimspecialedition/mods/137877).
 
 [[Top]](#contents)
 
 ---
 ## Where are the crash logs?
+Open the `My Games` folder.
+
+<img src="https://github.com/nowatermelon/skyrim/blob/main/mygame.png" width="60%">
+
+ Then go to the `SKSE` folder within it and search for "crash". You'll see files like `crash-2025-11-22-01-56-21.log`.
