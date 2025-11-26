@@ -1,10 +1,15 @@
 # Bread Frequently Asked Questions
 
 ## Contents
+- [Why is it called bread? I prefer milk.](#Why-is-it-called-bread-I-prefer-milk)
 - [Wabbajack says something failed to download.](#Wabbajack-says-something-failed-to-download)
 - [How do I change the resolution?](#how-do-i-change-the-resolution)
 - [How do I obtain mod items?](#How-do-I-obtain-mod-items)
 - [Where are the crash logs?](#Where-are-the-crash-logs)
+
+---
+## Why is it called bread? I prefer milk.
+Actually, it's got nothing to do with bread... It's just a Chinese pun mixing my channel name with the word "modlist".
 
 ---
 ## Wabbajack says something failed to download.
