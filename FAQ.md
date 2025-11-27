@@ -20,11 +20,11 @@ See comments of [TK Dodge Redux](https://www.nexusmods.com/skyrimspecialedition/
 ### How do I change the resolution?
 Use INI Editor in MO2.
 
-<img src="https://github.com/nowatermelon/skyrim/blob/main/resolution.png" width="40%">
+<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/resolution.png" width="40%">
 
 *Note: If the resolution setting doesn't work, find Bread\stock game\SkyrimSE.exe, right-click it, and set the following options in the pop-up window:* 
 
-<img src="https://github.com/nowatermelon/skyrim/blob/main/resolution2.png" width="60%">
+<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/resolution2.png" width="60%">
 
 ---
 ### How do I obtain mod items?
@@ -58,7 +58,7 @@ See [Wabbajack Wiki](https://wiki.wabbajack.org/user_documentation/Troubleshooti
 ### Where are the crash logs?
 Open the `My Games` folder.
 
-<img src="https://github.com/nowatermelon/skyrim/blob/main/mygame.png" width="40%">
+<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/mygame.png" width="40%">
 
 Then go to the `SKSE` folder within it and search for "crash". You'll see files like `crash-2025-11-22-01-56-21.log`.
 
