@@ -30,7 +30,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 ---
 
 ## System Requirement
-<img src="https://github.com/nowatermelon/skyrim/blob/main/sysreq.png" width="80%">
+<img src="https://github.com/nowatermelon/skyrim/blob/main/sysreq.png" width="60%">
 
 ---
 
