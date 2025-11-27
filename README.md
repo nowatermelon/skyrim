@@ -30,7 +30,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 ---
 
 ## System Requirement
-![skyrim](sysreq.png)
+<img src="https://github.com/nowatermelon/skyrim/blob/main/sysreq.png" width="80%">
 
 ---
 
@@ -84,7 +84,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 <div align="center">Keyboard Layout</div>
 
-<img src="https://github.com/nowatermelon/skyrim/blob/main/keybind.png" width="90%">
+<img src="https://github.com/nowatermelon/skyrim/blob/main/keybind.png">
 
 *Note: Not all keys are functional. For instance, the `Dialogue History` key no longer works because I removed this mod for stability. But I left it on the keybind list as a reminder.*
 
