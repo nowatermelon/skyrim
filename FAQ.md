@@ -1,6 +1,7 @@
 # Bread Frequently Asked Questions
 
 ## Contents
+(sorted alphabetically)
 - [Why is it called bread? I prefer milk.](#Why-is-it-called-bread-I-prefer-milk)
 - [Wabbajack says something failed to download.](#Wabbajack-says-something-failed-to-download)
 - [How do I change the resolution?](#how-do-i-change-the-resolution)
