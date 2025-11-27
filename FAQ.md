@@ -15,19 +15,6 @@
 ---
 ## How do I change the dodge hotkey?
 See comments of [TK Dodge Redux](https://www.nexusmods.com/skyrimspecialedition/mods/160098), and as mentioned in README, you can locate the ini file through filter.
-*Note: You can refer to [Key Code Reference](https://www.nexusmods.com/skyrimspecialedition/articles/7704)*
-
----
-## Why is it called bread? I prefer milk.
-Actually, it's got nothing to do with bread... It's just a Chinese pun mixing my channel name with the word "modlist".
-
----
-## Wabbajack says something failed to download.
-If the files are related to the DLCs, check the [Installation](https://github.com/nowatermelon/skyrim/blob/main/README.md#Installation) part.
-
-Otherwise, manually download the missing files and place them into the `Downloads` folder.
-
-See [Wabbajack Wiki](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) for detailed information.
 
 ---
 ## How do I change the resolution?
@@ -39,11 +26,31 @@ Use INI Editor in MO2.
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/resolution2.png" width="60%">
 
-[[Top]](#contents)
-
 ---
 ## How do I obtain mod items?
 Press `delete` to use [Modex](https://www.nexusmods.com/skyrimspecialedition/mods/137877).
+
+[[Top]](#contents)
+
+---
+## I can't level up or fast travel.
+With Sunhelm enabled, you need to sleep to level up. Additionally, with Journeyman, you need to use a travel bag to fast travel.
+
+[[Top]](#contents)
+
+---
+## Why is it called bread? I prefer milk.
+Actually, it's got nothing to do with bread... It's just a Chinese pun mixing my channel name with the word "modlist".
+
+[[Top]](#contents)
+
+---
+## Wabbajack says something failed to download.
+If the files are related to the DLCs, check the [Installation](https://github.com/nowatermelon/skyrim/blob/main/README.md#Installation) part.
+
+Otherwise, manually download the missing files and place them into the `Downloads` folder.
+
+See [Wabbajack Wiki](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) for detailed information.
 
 [[Top]](#contents)
 
@@ -53,6 +60,16 @@ Open the `My Games` folder.
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/mygame.png" width="40%">
 
- Then go to the `SKSE` folder within it and search for "crash". You'll see files like `crash-2025-11-22-01-56-21.log`.
+Then go to the `SKSE` folder within it and search for "crash". You'll see files like `crash-2025-11-22-01-56-21.log`.
 
- [[Top]](#contents)
+[[Top]](#contents)
+ 
+---
+## Some enemies are too high level.
+Search for `SkyPatcher.ini` and change `iEnableUnlevelNPCs=1` to 0 (this disables the removal of enemy level caps).
+
+---
+## Why is the cave so dark?
+Immersion comes at a cost, you may need to use torches, lanterns, and etc..
+
+[[Top]](#contents)
