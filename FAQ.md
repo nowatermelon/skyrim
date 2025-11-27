@@ -34,7 +34,7 @@ Press `delete` to use [Modex](https://www.nexusmods.com/skyrimspecialedition/mod
 
 ---
 ## I can't level up or fast travel.
-With Sunhelm enabled, you need to sleep to level up. Additionally, with Journeyman, you need to use a travel bag to fast travel.
+With [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) enabled, you need to sleep to level up. Additionally, with [Journeyman](https://www.nexusmods.com/skyrimspecialedition/mods/92220), you need to use a travel bag to fast travel.
 
 [[Top]](#contents)
 
@@ -66,10 +66,12 @@ Then go to the `SKSE` folder within it and search for "crash". You'll see files 
  
 ---
 ## Some enemies are too high level.
-Search for `SkyPatcher.ini` and change `iEnableUnlevelNPCs=1` to 0 (this disables the removal of enemy level caps).
+This is a recommended setting for [Skyvalor](https://www.nexusmods.com/skyrimspecialedition/mods/106240). You can search for `SkyPatcher.ini` and change `iEnableUnlevelNPCs=1` to 0 to disable the removal of enemy level caps.
+
+[[Top]](#contents)
 
 ---
 ## Why is the cave so dark?
-Immersion comes at a cost, you may need to use torches, lanterns, and etc..
+Immersion has some cost, you may need to use torches, lanterns, etc.
 
 [[Top]](#contents)
