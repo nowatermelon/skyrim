@@ -5,7 +5,7 @@
 - [How do I change the dodge hotkey?](#How-do-I-change-the-dodge-hotkey)
 - [How do I change the resolution?](#how-do-i-change-the-resolution)
 - [How do I obtain mod items?](#How-do-I-obtain-mod-items)
-- [I can't level up or fast travel.](#I-can't-level-up-or-fast-travel)
+- [I can't level up or fast travel.](#I-cant-level-up-or-fast-travel)
 - [Some enemies are too high level.](#Some-enemies-are-too-high-level)
 - [Wabbajack says something failed to download.](#Wabbajack-says-something-failed-to-download)
 - [Where are the crash logs?](#Where-are-the-crash-logs)
@@ -39,6 +39,12 @@ With [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) enable
 [[Top]](#contents)
 
 ---
+## Some enemies are too high level.
+This is a recommended setting for [Skyvalor](https://www.nexusmods.com/skyrimspecialedition/mods/106240). You can search for `SkyPatcher.ini` and change `iEnableUnlevelNPCs=1` to 0 to disable the removal of enemy level caps.
+
+[[Top]](#contents)
+
+---
 ## Why is it called bread? I prefer milk.
 Actually, it's got nothing to do with bread... It's just a Chinese pun mixing my channel name with the word "modlist".
 
@@ -64,12 +70,6 @@ Then go to the `SKSE` folder within it and search for "crash". You'll see files 
 
 [[Top]](#contents)
  
----
-## Some enemies are too high level.
-This is a recommended setting for [Skyvalor](https://www.nexusmods.com/skyrimspecialedition/mods/106240). You can search for `SkyPatcher.ini` and change `iEnableUnlevelNPCs=1` to 0 to disable the removal of enemy level caps.
-
-[[Top]](#contents)
-
 ---
 ## Why is the cave so dark?
 Immersion has some cost, you may need to use torches, lanterns, etc.
