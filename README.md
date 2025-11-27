@@ -88,6 +88,8 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 *Note: Check the mods' pages for key binding changes and avoid conflicts with the vanilla game, and [Key Code Reference](https://www.nexusmods.com/skyrimspecialedition/articles/7704) may help. Besides, not all keys above are functional. For instance, the `Dialogue History` key no longer works because I removed this mod for stability. But I left it as a reminder.*
 
+7. Directly modifying the root folder (where `SkyrimSE.exe` is) can get messy. RootBuilder keeps things organized without touching the original files. Just create an empty mod, add a `Root` folder, and place anything you want to put in the root folder into that `Root` folder instead. See [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) and [Wabbajack Wiki](https://wiki.wabbajack.org/modlist_author_documentation/Keeping%20the%20Game%20Folder%20clean.html) for more.
+   
 ---
 
 ## Updating
