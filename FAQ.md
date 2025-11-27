@@ -14,7 +14,7 @@
 
 ---
 ### How do I change the dodge hotkey?
-See comments of [TK Dodge Redux](https://www.nexusmods.com/skyrimspecialedition/mods/160098), and as mentioned in README, you can locate the ini file through filter.
+See comments of [TK Dodge Redux](https://www.nexusmods.com/skyrimspecialedition/mods/160098), and as mentioned in [README](https://github.com/nowatermelon/skyrim/blob/main/README.md#77), you can locate the ini file through filter.
 
 ---
 ### How do I change the resolution?
