@@ -90,8 +90,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 6. Directly modifying the root folder (where `SkyrimSE.exe` is) can get messy. Root Builder keeps things organized without touching the original files. This is why many Wabbajack lists (including Bread) use `stock game`, which allows you to modify this copy instead.
    
-   *Note: Another way is to create an empty mod, create a folder named "Root" inside it, and place anything you want to put in the `stock game` into that `Root` folder instead.<br>
-   See [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) and [Wabbajack Wiki](https://wiki.wabbajack.org/modlist_author_documentation/Keeping%20the%20Game%20Folder%20clean.html) for more.*
+   *Note: Another way is to create an empty mod, create a folder named "Root" inside it, and place anything you want to put in the `stock game` into that `Root` folder instead. See [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) and [Wabbajack Wiki](https://wiki.wabbajack.org/modlist_author_documentation/Keeping%20the%20Game%20Folder%20clean.html) for more.*
    
 ---
 
