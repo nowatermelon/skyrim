@@ -86,7 +86,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/keybind.png">
 
-*Note: Not all keys are functional. For instance, the `Dialogue History` key no longer works because I removed this mod for stability. But I left it on the keybind list as a reminder.*
+*Note: Check the mods' pages for key binding changes and avoid conflicts with the vanilla game. Besides, not all keys above are functional. For instance, the `Dialogue History` key no longer works because I removed this mod for stability. But I left it on the keybind list as a reminder.*
 
 ---
 
