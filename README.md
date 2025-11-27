@@ -76,7 +76,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 4. If you want to modify specific INI files, you can use the filter box under the `Data` section on the right panel in MO2, it will directly display the file with the highest priority.
    
-<img src="https://github.com/nowatermelon/skyrim/blob/main/datafilter.png" width="50%">
+<img src="https://github.com/nowatermelon/skyrim/blob/main/datafilter.png" width="25%">
 
 *Note: Be sure to back up or make notes, as these custom changes are often easily forgotten and may cause issues later on.*
 
