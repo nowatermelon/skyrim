@@ -11,7 +11,12 @@
 - [Where are the crash logs?](#Where-are-the-crash-logs)
 - [Why is it called bread? I prefer milk.](#Why-is-it-called-bread-I-prefer-milk)
 - [Why is the cave so dark?](#Why-is-the-cave-so-dark)
-  
+
+---
+## How do I change the dodge hotkey?
+See comments of [TK Dodge Redux](https://www.nexusmods.com/skyrimspecialedition/mods/160098), and as mentioned in README, you can locate the ini file through filter.
+*Note: You can refer to [Key Code Reference](https://www.nexusmods.com/skyrimspecialedition/articles/7704)*
+
 ---
 ## Why is it called bread? I prefer milk.
 Actually, it's got nothing to do with bread... It's just a Chinese pun mixing my channel name with the word "modlist".
