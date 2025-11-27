@@ -84,7 +84,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 <div align="center">Keyboard Layout</div>
 
-<img src="https://github.com/nowatermelon/skyrim/blob/main/keybind.png" width="80%">
+<img src="https://github.com/nowatermelon/skyrim/blob/main/keybind.png" width="90%">
 
 *Note: Not all keys are functional. For instance, the `Dialogue History` key no longer works because I removed this mod for stability. But I left it on the keybind list as a reminder.*
 
