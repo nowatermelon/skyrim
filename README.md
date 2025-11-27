@@ -80,7 +80,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
    
    *Note: Be sure to back up or make notes, as these custom changes are often easily forgotten and may cause issues later on.*
 
-6. Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players in the community for help.
+6. Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players for help.
 
 <div align="center">Keyboard Layout</div>
 
