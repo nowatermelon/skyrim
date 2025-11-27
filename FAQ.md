@@ -45,12 +45,6 @@ This is a recommended setting for [Skyvalor](https://www.nexusmods.com/skyrimspe
 [[Top]](#contents)
 
 ---
-## Why is it called bread? I prefer milk.
-Actually, it's got nothing to do with bread... It's just a Chinese pun mixing my channel name with the word "modlist".
-
-[[Top]](#contents)
-
----
 ## Wabbajack says something failed to download.
 If the files are related to the DLCs, check the [Installation](https://github.com/nowatermelon/skyrim/blob/main/README.md#Installation) part.
 
@@ -69,7 +63,13 @@ Open the `My Games` folder.
 Then go to the `SKSE` folder within it and search for "crash". You'll see files like `crash-2025-11-22-01-56-21.log`.
 
 [[Top]](#contents)
- 
+
+---
+## Why is it called bread? I prefer milk.
+Actually, it's got nothing to do with bread... It's just a Chinese pun mixing my channel name with the word "modlist".
+
+[[Top]](#contents)
+
 ---
 ## Why is the cave so dark?
 Immersion has some cost, you may need to use torches, lanterns, etc.
