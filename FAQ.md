@@ -22,7 +22,7 @@ Use INI Editor in MO2.
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/resolution.png" width="40%">
 
-*Note: If the resolution setting doesn't work, find Bread\stock game\SkyrimSE.exe, right-click it, and set the following options in the pop-up window:* 
+*Note: If the resolution setting doesn't work, find `Bread\stock game\SkyrimSE.exe`, right-click it and go to `properties-compatibility`, then set it up like this:* 
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/resolution2.png" width="60%">
 
