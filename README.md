@@ -30,7 +30,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 ---
 
 ## System Requirement
-<img src="https://github.com/nowatermelon/skyrim/blob/main/sysreq.png" width="60%">
+<img src="https://github.com/nowatermelon/skyrim/blob/main/sysreq.png" width="70%">
 
 ---
 
@@ -46,7 +46,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
      
    - [Disable auto-updates for Skyrim AE](https://help.steampowered.com/en/faqs/view/71AB-698D-57EB-178C#disable).
 
-   - Set game language to English.
+   - Set the game language to English.
   
      *Note: This step is required for all players (Chinese translations are implemented via mods).*
    - Upon first launch, Skyrim AE will auto-download the DLCs. Stay on this screen until finished, exit only after it's done.
