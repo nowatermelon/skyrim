@@ -51,7 +51,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
      *Note: This step is required for all players (Chinese translations are implemented via mods).*
    - Upon first launch, Skyrim AE will auto-download the DLCs. Stay on this screen until finished, exit only after it's done.
 
-     *Note: If you have DLC problems during installation, delete the game and redo this step.*
+     *Note: If you encounter an issue where Wabbajack cannot download the base game or DLCs, delete the game folder and redo this step.*
 
 3. **Wabbajack**
     - ~~Seek the Mad God's shrine. Whisper your madness. Claim your chaos. The Wabbajack awaits.~~
