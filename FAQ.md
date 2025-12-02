@@ -46,7 +46,7 @@ This is a recommended setting for [Skyvalor](https://www.nexusmods.com/skyrimspe
 
 ---
 ### Wabbajack says something failed to download.
-If the files are related to the DLCs, check the [Installation](https://github.com/nowatermelon/skyrim/blob/main/README.md#Installation) part.
+If the files are related to base game or DLCs, check the [Installation](https://github.com/nowatermelon/skyrim/blob/main/README.md#Installation) part.
 
 Otherwise, manually download the missing files and place them into the `Downloads` folder.
 
