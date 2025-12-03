@@ -72,7 +72,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language2.png" width="40%">
 
 
-3. I've pre-configured many settings, but players always need to manually adjust some things when starting a new game (e.g. certain mods' MCM, IED). The `Overwrite` folder also has some generated files like the community shader cache. To make setup easier, I've uploaded the `Profile` and `Overwrite` files on Nexus. Just download and drop them into `Bread` folder. The provided save file already includes all the manual configs, meaning all you have to do is use "Alternate Racemenu" power to redesign your character.
+3. When starting a new game, many settings need to be manually configured (e.g. certain mods' MCM, IED), so I have provided a pre-configured initial save file called "pm", meaning all you have to do is use the "Alternate Racemenu" power to redesign your character. If the `Profiles` folder is lost, it can be downloaded on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). Additionally, I have provided the `Overwrite` folder, which includes some generated files such as the community shader cache. You just need to download and drop them into the `Bread` folder.
 
 4. If you want to modify specific INI files, you can use the `filter` box under the `Data` section on the right panel in MO2, it will directly display the file with the highest priority.
   
