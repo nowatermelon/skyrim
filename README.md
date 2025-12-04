@@ -82,6 +82,8 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 5. Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players for help.
 
+   *Note: Mods supporting non-16:9 resolutions (partial): Lore-Friendly Load Screen Compendium, Oathvein UI*
+
 <div align="center">Keyboard Layout</div>
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/keybind.png">
