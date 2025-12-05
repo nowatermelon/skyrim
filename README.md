@@ -72,15 +72,19 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language2.png" width="40%">
 
 
-3. When starting a new game, many settings need to be manually configured (e.g. certain mods' MCM, IED), so I have provided a pre-configured initial save file called "pm", meaning all you have to do is use the "Alternate Racemenu" power to redesign your character. Additionally, I have provided the `Overwrite` folder, which includes some generated files such as the community shader cache. They can be downloaded on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). You just need to download and drop them into the `Bread` folder.
+3. To avoid manually configuring many settings (like MCMs and IED) at the start of a new game, I’ve provided a pre-configured save file named “pm” in the `Profiles` folder, meaning all you have to do is use the "Alternate Racemenu" power to redesign your character.
+  
+   Additionally, I have provided the `Overwrite` folder, which includes some generated files such as the community shader cache.
 
-4. If you want to modify specific INI files, you can use the `filter` box under the `Data` section on the right panel in MO2, it will directly display the file with the highest priority.
+   They can be downloaded on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). You just need to download and drop them into the `Bread` folder.
+
+6. If you want to modify specific INI files, you can use the `filter` box under the `Data` section on the right panel in MO2, it will directly display the file with the highest priority.
   
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/datafilter.png" width="25%">
    
    *Note: Be sure to back up or make notes, as these custom changes are often easily forgotten and may cause issues later on.*
 
-5. Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players for help.
+7. Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players for help.
 
    *Note: Mods supporting non-16:9 resolutions (partial): Lore-Friendly Load Screen Compendium, Oathvein UI*
 
