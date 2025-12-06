@@ -103,7 +103,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 ---
 
 ## Updating
-Check Changelog for useful information.
+Check [Changelog](https://github.com/nowatermelon/skyrim/blob/main/Changelog.md) for useful information.
 
 The steps are the same as installing Bread, just be sure to use the same paths.
 
