@@ -67,7 +67,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language1.png" width="40%">
 
-2. **Restore the backups.** It will set the game language at the same time.
+2. <u>Restore the backups.</u> It will set the game language at the same time.
   
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language2.png" width="40%">
 
