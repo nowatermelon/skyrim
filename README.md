@@ -67,7 +67,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language1.png" width="40%">
 
-2. <u>Restore the backups.</u> It will set the game language at the same time.
+2. ***Restore the backups***. It will set the game language at the same time.
   
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language2.png" width="40%">
 
@@ -76,9 +76,9 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
   
    Additionally, I have provided the `Overwrite` folder, which includes some generated files such as the community shader cache.
 
-   They can be downloaded on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). You just need to **download and drop them into the `Bread` folder**.
+   They can be downloaded on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). You just need to ***download and drop them into the `Bread` folder***.
 
-4. There is a hidden button behind the table in the starting room that can be used to **skip the prologue**.
+4. There is a hidden button behind the table in the starting room that can be used to ***skip the prologue***.
 
 5. If you want to modify specific INI files, you can use the `filter` box under the `Data` section on the right panel in MO2, it will directly display the file with the highest priority.
   
