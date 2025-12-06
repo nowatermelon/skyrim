@@ -1,0 +1,15 @@
+## V2.0.1
+- resolve sanity check error related to language
+- LOD water now flows
+- fix Katria's looks
+- new sofia replacer
+- replace Break the lock - OIF with Lock Bashing 
+- remove knockout extension and hail knockout addon to prevent crash
+- remove TeleHarvest - OIF to fix the mesh problem
+- add Autoscroller Plugin Mo2
+- add Horse Jump Fix
+- add Better Eye Shape for HPH
+- add The Frozen Heart bodyslide files
+- add Follower Dialogue Expansion - Ysolda, Camilla, Faralda
+- add Gulan0-Female Random Idle
+- add Apothecary Patches for Potion Remodels
