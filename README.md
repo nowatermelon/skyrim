@@ -72,11 +72,11 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language2.png" width="40%">
 
 
-3. To avoid manually configuring many settings (like MCMs and IED) at the start of a new game, I’ve provided a pre-configured save file named “pm” in the `Profiles` folder, meaning all you have to do is use the "Alternate Racemenu" power to redesign your character.
+3. Wabbajack does not include `profiles` and `overwrite` files. It is recommended to download these two files I provided from [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063) and drop them into the `Bread` folder (where the modlist is installed).
   
-   Additionally, I have provided the `Overwrite` folder, which includes some generated files such as the community shader cache.
-
-   They can be downloaded on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). You just need to ***download and drop them into the `Bread` folder***.
+   The `profiles` folder contains a pre-configured save file named “pm”, which saves you from manually configuring settings like MCMs and IED at the start of a new game. Simply use the "Alternate Racemenu" power to redesign your character.
+    
+   The `overwrite` folder includes some other settings and generated files such as the community shader cache.
 
 4. There is a hidden button behind the table in the starting room that can be used to ***skip the prologue***.
 
@@ -96,7 +96,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 *Note: Check the mods' pages for key binding changes and avoid conflicts with the vanilla game, and [Key Code Reference](https://www.nexusmods.com/skyrimspecialedition/articles/7704) may help. Besides, not all keys above are functional. For instance, the `Dialogue History` key no longer works because I removed this mod for stability. But I left it as a reminder.*
 
-7. Directly modifying the root folder (where `SkyrimSE.exe` is) can get messy. Root Builder keeps things organized without touching the original files. This is why many Wabbajack lists (including Bread) use `stock game`, which allows you to modify this copy instead.
+7. Directly modifying the root folder (where `SkyrimSE.exe` is) can get messy. Root Builder keeps things organized without touching the original files. This is why many Wabbajack lists (including ) use `stock game`, which allows you to modify this copy instead.
    
    *Note: Another way is to create an empty mod, create a folder named "Root" inside it, and place anything you want to put in the `stock game` into that `Root` folder instead. See [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) and [Wabbajack Wiki](https://wiki.wabbajack.org/modlist_author_documentation/Keeping%20the%20Game%20Folder%20clean.html) for more.*
    
@@ -105,11 +105,11 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 ## Updating
 Check [Changelog](https://github.com/nowatermelon/skyrim/blob/main/Changelog.md) for useful information.
 
-The steps are the same as installing Bread, you can use the same paths.
+The steps are the same as installing , you can use the same paths.
 
-Back up the save files just in case.
+Any custom files (mods, `profiles`, `overwrite`, etc) not included in the modlist will be deleted during updates. To keep the mods you've added, you must add the [NoDelete] prefix to their names.
 
-***Note: Any custom files not included in the Modlist will be deleted during updates. To preserve your own edits, you must add the [NoDelete] prefix to these mods' names.***
+***With each release, I provide baseline `profiles` and `overwrite` files on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). Make sure to back up your current saves elsewhere before updating and then use them to overwrite the default save.***
 
 ---
 
@@ -128,7 +128,7 @@ Includes:
 ---
 
 ## Uninstalling
-Delete the `Bread` folder.
+Delete the `` folder.
 
 ~~Wait... I know you.~~
 
