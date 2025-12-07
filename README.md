@@ -74,7 +74,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 3. Wabbajack does not include `profiles` and `overwrite` files. It is recommended to download these two files I provided from [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063) and drop them into the `Bread` folder (where the modlist is installed).
   
-   The `profiles` folder contains a pre-configured save file named “pm”, which saves you from manually configuring settings like MCMs and IED at the start of a new game. Simply use the "Alternate Racemenu" power to redesign your character.
+   The `profiles` folder contains ***a pre-configured save*** file named “pm”, which saves you from manually configuring settings like MCMs and IED at the start of a new game. Simply use the "Alternate Racemenu" power to redesign your character.
     
    The `overwrite` folder includes some other settings and generated files such as the community shader cache.
 
@@ -107,9 +107,9 @@ Check [Changelog](https://github.com/nowatermelon/skyrim/blob/main/Changelog.md)
 
 The steps are the same as installing , you can use the same paths.
 
-Any custom files (mods, `profiles`, `overwrite`, etc) not included in the modlist will be deleted during updates. To keep the mods you've added, you must add the [NoDelete] prefix to their names.
+Any custom files (mods, `profiles`, `overwrite`, etc) not included in the modlist ***will be deleted*** during updates. To keep the mods you've added, you must add the [NoDelete] prefix to their names.
 
-***With each release, I provide baseline `profiles` and `overwrite` files on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). Make sure to back up your current saves elsewhere before updating and then use them to overwrite the default save.***
+With each release, I provide baseline `profiles` and `overwrite` files on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). Make sure to ***back up your current saves elsewhere*** before updating and then use them to overwrite the default save.
 
 ---
 
