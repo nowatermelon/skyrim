@@ -1,5 +1,4 @@
-Tips: Back up the save files just in case. Also, any custom files not included in the Modlist will be deleted during Wabbajack updates. To preserve your own edits, you must add the [NoDelete] prefix to these mods' names.
-
+Tips: Any custom files not included in the modlist will be deleted during updates. To keep the mods you've added, you must add the [NoDelete] prefix to their names. With each release, I provide baseline profiles and overwrite files on Nexus. Back up your current saves and overwrite the default one if you want to use them.
 ## V2.0.1
 - resolve sanity check error related to language
 - LOD water now flows
