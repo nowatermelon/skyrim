@@ -108,9 +108,9 @@ Check [Changelog](https://github.com/nowatermelon/skyrim/blob/main/Changelog.md)
 
 The steps are the same as installing , you can use the same paths.
 
-Any custom files (mods, `profiles`, `overwrite`, etc) not included in the modlist ***will be deleted*** during updates. To keep the mods you've added, you must add the [NoDelete] prefix to their names.
+Any custom files not included in the modlist ***will be deleted*** during updates. To keep the mods you've added, you must add the [NoDelete] prefix to their names.
 
-With each release, I provide baseline `profiles` and `overwrite` files on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). Make sure to ***back up your current saves elsewhere*** before updating and then use them to overwrite the default save.
+With each release, I provide baseline `profiles` and `overwrite` files on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). Back up your current saves and overwrite the default one if you want to use them.
 
 ---
 
