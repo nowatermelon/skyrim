@@ -71,6 +71,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
   
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language2.png" width="40%">
 
+   If you don't want those translation mods, type CHS (their suffix) into the filter box, select them, and remove them.
 
 3. Wabbajack does not include `profiles` and `overwrite` files. It is recommended to download these two files I provided from [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063) and drop them into the `Bread` folder (where the modlist is installed).
   
