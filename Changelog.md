@@ -1,3 +1,7 @@
+Back up the save files just in case.
+
+Any custom files not included in the Modlist will be deleted during updates. To preserve your own edits, you must add the [NoDelete] prefix to these mods' names.
+
 ## V2.0.1
 - resolve sanity check error related to language
 - LOD water now flows
