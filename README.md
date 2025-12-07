@@ -105,9 +105,9 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 ## Updating
 Check [Changelog](https://github.com/nowatermelon/skyrim/blob/main/Changelog.md) for useful information.
 
-The steps are the same as installing Bread, just be sure to use the same paths.
+The steps are the same as installing Bread, you can use the same paths.
 
-Back up the save file just in case.
+Back up the save files just in case.
 
 ***Note: Any custom files not included in the Modlist will be deleted during updates. To preserve your own edits, you must add the [NoDelete] prefix to these mods' names.***
 
