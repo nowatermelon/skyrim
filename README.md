@@ -2,7 +2,7 @@
 ![skyrim](_resources/169.jpg)
 My passion project to reimagine Skyrim. Shared for all adventurers to help make every corner and story even more incredible.
 
-**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/149063) | [Load Order](https://loadorderlibrary.com/lists/bread-wabbajack-modlist) | [Discord](https://discord.gg/NR322ygvdu)  | [Youtube](youtube.com/@impaomian) | [Bilibili](https://space.bilibili.com/13654140)  | [FAQ](https://github.com/nowatermelon/skyrim/blob/main/FAQ.md) | [Changelog](https://github.com/nowatermelon/skyrim/blob/main/Changelog.md)
+**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/149063) | [Load Order](https://loadorderlibrary.com/lists/bread-wabbajack-modlist) | [Discord](https://discord.gg/NR322ygvdu)  | [YouTube](https://youtube.com/@impaomian) | [Bilibili](https://space.bilibili.com/13654140)  | [FAQ](https://github.com/nowatermelon/skyrim/blob/main/FAQ.md) | [Changelog](https://github.com/nowatermelon/skyrim/blob/main/Changelog.md)
 
 ---
 
