@@ -2,7 +2,7 @@
 ![skyrim](_resources/169.jpg)
 My passion project to reimagine Skyrim. Shared for all adventurers to help make every corner and story even more incredible.
 
-**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/149063) | [Load Order](https://loadorderlibrary.com/lists/bread-wabbajack-modlist) | [Discord](https://discord.gg/NR322ygvdu)  | [YouTube](https://youtube.com/@impaomian) | [Bilibili](https://space.bilibili.com/13654140)  | [FAQ](https://github.com/nowatermelon/skyrim/blob/main/FAQ.md) | [Changelog](https://github.com/nowatermelon/skyrim/blob/main/Changelog.md)
+**Links**: [Nexus Page](https://www.nexusmods.com/skyrimspecialedition/mods/149063) | [Load Order](https://loadorderlibrary.com/lists/bread-wabbajack-modlist) | [Discord](https://discord.gg/s7UkK85CwE)  | [YouTube](https://youtube.com/@impaomian) | [Bilibili](https://space.bilibili.com/13654140)  | [FAQ](https://github.com/nowatermelon/skyrim/blob/main/FAQ.md) | [Changelog](https://github.com/nowatermelon/skyrim/blob/main/Changelog.md)
 
 ---
 
@@ -25,7 +25,7 @@ Additionally, it supports both **English and Chinese**. You can switch the langu
 
 It's not perfect and could probably be polished until the day The Elder Scrolls VI comes out. All ideas are welcome.
 
-Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/main/FAQ.md) has the answer. Feel free to reach out on [Discord](https://discord.gg/NR322ygvdu) as well.
+Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/main/FAQ.md) has the answer. Feel free to reach out on [Discord](https://discord.gg/s7UkK85CwE) as well.
 
 ---
 
