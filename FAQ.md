@@ -28,8 +28,8 @@ Use INI Editor in MO2.
 <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/resolution2.png" width="60%">
 
 ---
-### How do I change voice types?
-You can download a voice pack you like (such as [2B](https://www.nexusmods.com/skyrimspecialedition/mods/94254) and load it in MCM. See [PC Head Tracking and Voice Type](https://www.nexusmods.com/skyrimspecialedition/mods/11993)
+### How do I change the voice type?
+You can download a voice pack you like (such as [2B](https://www.nexusmods.com/skyrimspecialedition/mods/94254) and load it in MCM. See [PC Head Tracking and Voice Type](https://www.nexusmods.com/skyrimspecialedition/mods/11993).
 
 ---
 ### How do I obtain mod items?
