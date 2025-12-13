@@ -106,7 +106,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 ## Updating
 Check [Changelog](https://github.com/nowatermelon/skyrim/blob/main/Changelog.md) for useful information.
 
-The steps are the same as installing , you can use the same paths, provided that you have kept the previous `downloads` folder.
+The steps are the same as installing, you can use the same paths, provided that you have kept the previous `downloads` folder.
 
 Any custom files not included in the modlist ***will be deleted*** during updates. To keep the mods you've added, you must add the [NoDelete] prefix to their names.
 
