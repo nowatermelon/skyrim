@@ -4,6 +4,7 @@
 (sorted alphabetically)
 - [How do I change the dodge hotkey?](#How-do-I-change-the-dodge-hotkey)
 - [How do I change the resolution?](#how-do-i-change-the-resolution)
+- [How do I change voice types?](#how-do-i-change-voice-types)
 - [How do I obtain mod items?](#How-do-I-obtain-mod-items)
 - [I can't level up or fast travel.](#I-cant-level-up-or-fast-travel)
 - [Some enemies are too high level.](#Some-enemies-are-too-high-level)
@@ -25,6 +26,10 @@ Use INI Editor in MO2.
 *Note: If the resolution setting doesn't work, find `Bread\stock game\SkyrimSE.exe`, right-click it and go to `properties-compatibility`, then set it up like this:* 
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/resolution2.png" width="60%">
+
+---
+### How do I change voice types?
+You can download a voice pack you like (such as [2B](https://www.nexusmods.com/skyrimspecialedition/mods/94254) and load it in MCM. See [PC Head Tracking and Voice Type](https://www.nexusmods.com/skyrimspecialedition/mods/11993)
 
 ---
 ### How do I obtain mod items?
