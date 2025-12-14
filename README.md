@@ -140,6 +140,6 @@ Wait... Tell me you're not that heartless T_T
 ## Credits
 - Todd Howard for It Just Works
 - [Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) & Wabbajack team
-- All mod authors
+- All mod authors, especially [PARASOE](https://www.nexusmods.com/profile/PARASOE) for the permission
 - All tool developers
 - All friends who have supported and helped me
