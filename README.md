@@ -21,7 +21,7 @@ My passion project to reimagine Skyrim. Shared for all adventurers to help make 
 ## Introduction
 **Bread** is a complete overhaul modlist for Skyrim AE (1.6.1170) with all DLCs, built around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). It significantly expands content across all aspects (at ~170 esp slots), aiming to breathe lasting vitality into Skyrim while striving to remain lore-friendly.
 
-Additionally, it supports both **English and Chinese**. You can switch the language in MO2 at any time.
+Additionally, it supports both ***English and Chinese***. You can switch the language in MO2 at any time.
 
 It's not perfect and could probably be polished until the day The Elder Scrolls VI comes out. All ideas are welcome.
 
@@ -67,11 +67,11 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language1.png" width="40%">
 
-2. **Select a profile** for game language.
+2. ***Select a profile*** for game language.
 
     <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/select%20profile.png" width="40%">
    
-   **Restore the backup** to prevent accidental misordering.
+   ***Restore the backup*** to prevent accidental misordering.
   
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language2.png" width="40%">
 
@@ -79,11 +79,11 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 3. Wabbajack does not include `profiles` and `overwrite` files. It is recommended to download these two files I provided from [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063) and drop them into the `Bread` folder (where the modlist is installed).
   
-   The `profiles` folder contains a **pre-configured save** file named “pm”, which saves you from manually configuring settings like MCMs and IED at the start of a new game. Simply use the "Alternate Racemenu" power to redesign your character.
+   The `profiles` folder contains a ***pre-configured save*** file named “pm”, which saves you from manually configuring settings like MCMs and IED at the start of a new game. Simply use the "Alternate Racemenu" power to redesign your character.
     
    The `overwrite` folder includes some other settings and generated files such as the community shader cache.
 
-4. Speak to the statue in the starting room, the "Dragonborn" option includes a choice to **skip the prologue**.
+4. Speak to the statue in the starting room, the "Dragonborn" option includes a choice to ***skip the prologue***.
 
 5. If you want to modify specific INI files, you can use the `filter` box under the `Data` section on the right panel in MO2, it will directly display the file with the highest priority.
   
@@ -112,7 +112,7 @@ Check [Changelog](https://github.com/nowatermelon/skyrim/blob/main/Changelog.md)
 
 The steps are the same as installing, you can use the same paths, provided that you have kept the previous `downloads` folder.
 
-Any custom files not included in the modlist **will be deleted** during updates. To keep the mods you've added, you must add the [NoDelete] prefix to their names.
+Any custom files not included in the modlist ***will be deleted*** during updates. To keep the mods you've added, you must add the [NoDelete] prefix to their names.
 
 With each release, I provide baseline `profiles` and `overwrite` files on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). Back up your current saves and overwrite the default one if you want to use them.
 
@@ -133,7 +133,7 @@ Includes:
 ---
 
 ## Uninstalling
-Delete the `` folder.
+Delete the `Bread` folder.
 
 ~~Wait... I know you.~~
 
