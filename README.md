@@ -83,7 +83,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
     
    The `overwrite` folder includes some other settings and generated files such as the community shader cache.
 
-4. There is a hidden button behind the table in the starting room that can be used to ***skip the prologue***.
+4. Speak to the statue in the starting room, the "Dragonborn" option includes a choice to ***skip the prologue***.
 
 5. If you want to modify specific INI files, you can use the `filter` box under the `Data` section on the right panel in MO2, it will directly display the file with the highest priority.
   
