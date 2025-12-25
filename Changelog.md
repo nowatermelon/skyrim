@@ -18,33 +18,33 @@ Tips: Any custom files not included in the modlist ***will be deleted*** during 
 
 ## V2.0.2
 including but not limited to:
-*switch languages by switching profiles rather than restoring backups
-*fix boxed letters related to synthesis and pgpatcher
-*key mod updates: Alternate Perspective,Ashe and Serana Banter Patch
-adjust inventory UI
-adjust hud position such as health bar
-adjust OBody distribution
-fix EEOS distribution
-fix the clipping on the bridge north of Lost Knife Hideout
-convert YogaKiin DAR to OAR version
-convert skychild to skypatcher version
-convert disabled turn animation to SKSE version
-add menu load indicator
-add Nocturnal Revoiced
-add Missives - Voice and Quest Expansion
-add dMenu NG
-add Water Puddles Fix
-add Ingredient Magnitudes
-add Mark Unique Items
-add Assorted Behavior Fixes
-add JellyFishFP Movement Remake
-add Publican's Perch
-add SIGMA - Magic animations - 1st person
-add Oui Oui Baguette - A Bread Expansion
-add Animated Objects Overhauled
-add BFCO - For Honor Jump Attack
-add Green Thumb Fix
-add Saving Alva
-add Tempering Break Chance
-add FDE Elisif
-add Dynamic Pricing Framework
+- *switch languages by switching profiles rather than restoring backups
+- *fix boxed letters related to synthesis and pgpatcher
+- *key mod updates: Alternate Perspective,Ashe and Serana Banter Patch
+- adjust inventory UI
+- adjust hud position such as health bar
+- adjust OBody distribution
+- fix EEOS distribution
+- fix the clipping on the bridge north of Lost Knife Hideout
+- convert YogaKiin DAR to OAR version
+- convert skychild to skypatcher version
+- convert disabled turn animation to SKSE version
+- add menu load indicator
+- add Nocturnal Revoiced
+- add Missives - Voice and Quest Expansion
+- add dMenu NG
+- add Water Puddles Fix
+- add Ingredient Magnitudes
+- add Mark Unique Items
+- add Assorted Behavior Fixes
+- add JellyFishFP Movement Remake
+- add Publican's Perch
+- add SIGMA - Magic animations - 1st person
+- add Oui Oui Baguette - A Bread Expansion
+- add Animated Objects Overhauled
+- add BFCO - For Honor Jump Attack
+- add Green Thumb Fix
+- add Saving Alva
+- add Tempering Break Chance
+- add FDE Elisif
+- add Dynamic Pricing Framework
