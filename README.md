@@ -67,7 +67,11 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language1.png" width="40%">
 
-2. ***Restore the backups***. It will set the game language at the same time.
+2. ***Select Profile by Language***.
+
+    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/select%20profile.png" width="40%">
+   
+   ***Restore the backup***. In case the sorting is accidentally incorrect
   
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language2.png" width="40%">
 
