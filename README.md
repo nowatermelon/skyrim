@@ -67,11 +67,11 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language1.png" width="40%">
 
-2. ***Select Profile by Language***.
+2. ***Select a profile*** for game language.
 
     <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/select%20profile.png" width="40%">
    
-   ***Restore the backup***. In case the sorting is accidentally incorrect
+   ***Restore the backup*** to prevent accidental misordering.
   
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language2.png" width="40%">
 
