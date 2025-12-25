@@ -1,4 +1,4 @@
-Tips: Any custom files not included in the modlist ***will be deleted*** during updates. To keep the mods you've added, you must add the [NoDelete] prefix to their names. With each release, I provide baseline `profiles` and `overwrite` files on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). Back up your current saves and overwrite the default one if you want to use them.
+Tips: Any custom files not included in the modlist **will be deleted** during updates. To keep the mods you've added, you must add the [NoDelete] prefix to their names. With each release, I provide baseline `profiles` and `overwrite` files on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). Back up your current saves and overwrite the default one if you want to use them.
 
 ## V2.0.1
 - resolve sanity check error related to language
