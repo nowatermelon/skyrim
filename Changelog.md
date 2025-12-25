@@ -18,9 +18,9 @@ Tips: Any custom files not included in the modlist ***will be deleted*** during 
 
 ## V2.0.2
 including but not limited to:
-- *switch languages by switching profiles rather than restoring backups
-- *fix boxed letters related to synthesis and pgpatcher
-- *key mod updates: Alternate Perspective,Ashe and Serana Banter Patch
+- **switch languages by switching profiles rather than restoring backups**
+- **fix boxed letters related to synthesis and pgpatcher**
+- **key mod updates: Alternate Perspective,Ashe and Serana Banter Patch**
 - adjust inventory UI
 - adjust hud position such as health bar
 - adjust OBody distribution
