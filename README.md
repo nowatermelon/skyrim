@@ -77,7 +77,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
    If you don't want those translation mods, type CHS (their suffix) into the filter box, select them, and remove them.
 
-3. Wabbajack does not include `profiles` and `overwrite` files. It is recommended to download these two files I provided from [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063) and drop them into the `Bread` folder (where the modlist is installed).
+3. It is recommended to download `profiles` and `overwrite` files I provided from [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063) and drop them into the `Bread` folder (where the modlist is installed).
   
    The `profiles` folder contains a ***pre-configured save*** file named “pm”, which saves you from manually configuring settings like MCMs and IED at the start of a new game. Simply use the "Alternate Racemenu" power to redesign your character.
     
