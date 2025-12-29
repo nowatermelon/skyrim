@@ -72,7 +72,7 @@ Sometimes it might simply be a network issue that clears up on its own after a w
 
 For files hosted on the [Wabbajack CDN](https://build.wabbajack.org/authored_files), consider a manual download using the Debug option if speeds are poor.
 
-img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/wabbajackcdn.png" width="40%">
+<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/wabbajackcdn.png" width="40%">
 
 [[Top]](#contents)
 
