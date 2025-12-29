@@ -9,7 +9,7 @@
 - [I can't level up or fast travel.](#I-cant-level-up-or-fast-travel)
 - [Is it save to remove xxx mod?](#is-it-save-to-remove-xxx-mod)
 - [Some enemies are too high level.](#Some-enemies-are-too-high-level)
-- [Wabbajack says something failed to download.](#Wabbajack-says-something-failed-to-download)
+- [Wabbajack says something failed to download/low speed.](#Wabbajack-says-something-failed-to-download-low-speed)
 - [Where are the crash logs?](#Where-are-the-crash-logs)
 - [Why is it called bread? I prefer milk.](#Why-is-it-called-bread-I-prefer-milk)
 - [Why is the cave so dark?](#Why-is-the-cave-so-dark)
@@ -61,7 +61,7 @@ This is a recommended setting for [Skyvalor](https://www.nexusmods.com/skyrimspe
 [[Top]](#contents)
 
 ---
-### Wabbajack says something failed to download.
+### Wabbajack says something failed to download/low speed.
 If the files are related to base game or DLCs, check the [Installation](https://github.com/nowatermelon/skyrim/blob/main/README.md#Installation) part. Otherwise, manually download the missing files and place them into the `Downloads` folder. See [Wabbajack Wiki](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) for detailed information.
 
 Sometimes it might simply be a network issue that clears up on its own after a while. Try restarting Wabbajack later to resume downloading.
