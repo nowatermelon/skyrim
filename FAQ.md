@@ -7,7 +7,7 @@
 - [How do I change voice types?](#how-do-i-change-voice-types)
 - [How do I obtain mod items?](#How-do-I-obtain-mod-items)
 - [I can't level up or fast travel.](#I-cant-level-up-or-fast-travel)
-- [Is it save to remove xxx mod?](#is-it-save-to-remove-xxx-mod?)
+- [Is it save to remove xxx mod?](#Is-it-save-to-remove-xxx-mod?)
 - [Some enemies are too high level.](#Some-enemies-are-too-high-level)
 - [Wabbajack says something failed to download.](#Wabbajack-says-something-failed-to-download)
 - [Where are the crash logs?](#Where-are-the-crash-logs)
