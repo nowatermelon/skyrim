@@ -84,7 +84,7 @@ Then go to the `SKSE` folder within it and search for "crash". You'll see files 
 
 ---
 ### Why is it called bread? I prefer milk.
-Actually, it's got nothing to do with bread... It's just a Chinese pun mixing my channel name with the word "modlist".
+Actually, it's got nothing to do with bread... It's just a Chinese pun mixing my channel name with the word "modpack".
 
 [[Top]](#contents)
 
