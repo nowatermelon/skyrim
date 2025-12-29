@@ -62,17 +62,13 @@ This is a recommended setting for [Skyvalor](https://www.nexusmods.com/skyrimspe
 
 ---
 ### Wabbajack says something failed to download.
-If the files are related to base game or DLCs, check the [Installation](https://github.com/nowatermelon/skyrim/blob/main/README.md#Installation) part.
-
-Otherwise, manually download the missing files and place them into the `Downloads` folder.
-
-See [Wabbajack Wiki](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) for detailed information.
+If the files are related to base game or DLCs, check the [Installation](https://github.com/nowatermelon/skyrim/blob/main/README.md#Installation) part. Otherwise, manually download the missing files and place them into the `Downloads` folder. See [Wabbajack Wiki](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) for detailed information.
 
 Sometimes it might simply be a network issue that clears up on its own after a while.
 
 For files hosted on the [Wabbajack CDN](https://build.wabbajack.org/authored_files), consider a manual download using the Debug option if speeds are poor.
 
-<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/wabbajackcdn.png" width="40%">
+<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/wabbajackcdn.png" width="60%">
 
 [[Top]](#contents)
 
