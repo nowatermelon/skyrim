@@ -9,7 +9,7 @@
 - [I can't level up or fast travel.](#I-cant-level-up-or-fast-travel)
 - [Is it save to remove xxx mod?](#is-it-save-to-remove-xxx-mod)
 - [Some enemies are too high level.](#Some-enemies-are-too-high-level)
-- [Wabbajack says something failed to download/low speed.](#Wabbajack-says-something-failed-to-download-low-speed)
+- [Wabbajack says something failed to download/low speed.](#Wabbajack-says-something-failed-to-downloadlow-speed)
 - [Where are the crash logs?](#Where-are-the-crash-logs)
 - [Why is it called bread? I prefer milk.](#Why-is-it-called-bread-I-prefer-milk)
 - [Why is the cave so dark?](#Why-is-the-cave-so-dark)
