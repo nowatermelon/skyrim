@@ -66,7 +66,7 @@ If the files are related to base game or DLCs, check the [Installation](https://
 
 Sometimes it might simply be a network issue that clears up on its own after a while. Try restarting Wabbajack later to resume downloading.
 
-For files hosted on the [Wabbajack CDN](https://build.wabbajack.org/authored_files), consider a manual download using the Debug option if speeds are poor.
+For files hosted on the [Wabbajack CDN](https://build.wabbajack.org/authored_files), consider manual downloads using the Debug option if speeds are poor.
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/wabbajackcdn.png" width="60%">
 
