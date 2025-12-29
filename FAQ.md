@@ -68,6 +68,12 @@ Otherwise, manually download the missing files and place them into the `Download
 
 See [Wabbajack Wiki](https://wiki.wabbajack.org/user_documentation/Troubleshooting%20FAQ.html) for detailed information.
 
+Sometimes it might simply be a network issue that clears up on its own after a while.
+
+For files hosted on the [Wabbajack CDN](https://build.wabbajack.org/authored_files), consider a manual download using the Debug option if speeds are poor.
+
+img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/wabbajackcdn.png" width="40%">
+
 [[Top]](#contents)
 
 ---
