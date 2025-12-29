@@ -7,6 +7,7 @@
 - [How do I change voice types?](#how-do-i-change-voice-types)
 - [How do I obtain mod items?](#How-do-I-obtain-mod-items)
 - [I can't level up or fast travel.](#I-cant-level-up-or-fast-travel)
+- [Is it save to remove xxx mod?](#is-it-save-to-remove-xxx-mod?)
 - [Some enemies are too high level.](#Some-enemies-are-too-high-level)
 - [Wabbajack says something failed to download.](#Wabbajack-says-something-failed-to-download)
 - [Where are the crash logs?](#Where-are-the-crash-logs)
@@ -40,6 +41,16 @@ Press `delete` to use [Modex](https://www.nexusmods.com/skyrimspecialedition/mod
 ---
 ### I can't level up or fast travel.
 With [Sunhelm](https://www.nexusmods.com/skyrimspecialedition/mods/39414) enabled, you need to sleep to level up. Additionally, with [Journeyman](https://www.nexusmods.com/skyrimspecialedition/mods/92220), you need to use a travel bag to fast travel.
+
+[[Top]](#contents)
+
+---
+### Is it save to remove xxx mod?
+A quick way to check is after removing the mod, see if any plugins warn about a missing master file. If so, you’ll see a triangle alert icon, that usually means you may need to regenerate the corresponding outputs like Bodyslide, PGPpatcher, DynDOLOD, etc.
+
+Even without missing masters, it’s not entirely risk-free and your saves could still run into issues. Better keep backups.
+
+<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/missingmaster.png" width="40%">
 
 [[Top]](#contents)
 
