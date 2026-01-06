@@ -1,7 +1,7 @@
 [
   {
     "$type": "ModListMetadata, Wabbajack.Lib",
-    "title": "Bread Wabbajack Modlist",
+    "title": "Bread",
     "description": "My passion project to reimagine Skyrim. Shared for all adventurers to help make every corner and story even more incredible.",
     "author": "paomian",
     "maintainers": [
@@ -21,7 +21,7 @@
       "image": "https://raw.githubusercontent.com/nowatermelon/skyrim/main/_resources/169cover.webp",
       "readme": "https://github.com/nowatermelon/skyrim/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/bread.wabbajack_8a47e3a8-757d-4e64-a8f6-9ed10963b8b2",
-      "machineURL": "BREADWABBAJACKMODLIST",
+      "machineURL": "BREAD",
       "discordURL": "https://discord.gg/s7UkK85CwE"
     },
     "download_metadata": {
