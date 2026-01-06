@@ -49,7 +49,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
    - Set the game language to English.
   
      *Note: This step is required for all players (Chinese translations are implemented via mods).*
-   - Upon first launch, Skyrim AE will auto-download the DLCs. Stay on this screen until finished, exit only after it's done.
+   - Upon first launch, the game will auto-download the DLCs. If not, register an account with Bethesda and then restart the game. Do not leave the screen until the download is complete.
 
      *Note: If you encounter an issue where Wabbajack cannot download the base game or DLCs, delete the game folder and redo this step, or try verifying game file integrity.*
 
