@@ -19,7 +19,7 @@ My passion project to reimagine Skyrim. Shared for all adventurers to help make 
 ---
 
 ## Introduction
-**Bread** is a complete overhaul modlist for Skyrim AE (1.6.1170) with all DLCs, built around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). It significantly expands content across all aspects (at ~170 esp slots), aiming to breathe lasting vitality into Skyrim while striving to remain lore-friendly.
+**Bread** is a complete overhaul modlist for Skyrim AE (1.6.1170) with all AE content, built around [Community Shaders](https://www.nexusmods.com/skyrimspecialedition/mods/86492). It significantly expands content across all aspects (at ~170 esp slots), aiming to breathe lasting vitality into Skyrim while striving to remain lore-friendly.
 
 Additionally, it supports both ***English and Chinese***. You can switch the language in MO2 at any time.
 
