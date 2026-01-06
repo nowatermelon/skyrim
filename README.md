@@ -108,7 +108,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 ---
 
 ## Updating
-Check [Changelog](https://github.com/nowatermelon/skyrim/blob/main/Changelog.md) for useful information.
+Check [Changelog](https://github.com/nowatermelon/skyrim/blob/main/Changelog.md) for useful information. With some versions, you may need to start a new game.
 
 The steps are the same as installing, you can use the same paths, provided that you have kept the previous `downloads` folder.
 
