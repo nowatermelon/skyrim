@@ -71,7 +71,7 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
     <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/select%20profile.png" width="40%">
    
-   ***Restore the backup*** to prevent accidental misordering.
+   ***Restore the backup*** to both return everything to its initial state and prevent accidental misordering.
   
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language2.png" width="40%">
 
