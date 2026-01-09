@@ -63,11 +63,11 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 ---
 
 ## Post-Installation
-**1**. Set MO2 language.
+*1*. Set MO2 language.
 
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/language1.png" width="40%">
 
-**2**. ***Select a profile*** for game language.
+*2*. ***Select a profile*** for game language.
 
     <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/select%20profile.png" width="40%">
    
