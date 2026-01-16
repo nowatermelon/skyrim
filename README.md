@@ -9,6 +9,7 @@ My passion project to reimagine Skyrim. Shared for all adventurers to help make 
 ## Contents
 - [Introduction](#introduction)
 - [System Requirement](#system-requirement)
+- [Keybindings](#keybindings)
 - [Installation](#installation)
 - [Post-Installation](#post-installation)
 - [Updating](#updating)
@@ -31,6 +32,16 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 ## System Requirement
 <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/sysreq.png" width="70%">
+
+---
+
+## Keybindings
+
+<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/keyeng.png">
+
+<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/keychs.png">
+
+*Note: Check the mods' pages for default hotkeys and avoid conflicts with the vanilla game. [Key Code Reference](https://www.nexusmods.com/skyrimspecialedition/articles/7704) may help.
 
 ---
 
@@ -94,14 +105,6 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 6. Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players for help.
 
    *Note: Mods supporting non-16:9 resolutions (partial): Lore-Friendly Load Screen Compendium, Oathvein UI*
-
-<div align="center">Keybindings</div>
-
-<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/keyeng.png">
-
-<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/keychs.png">
-
-*Note: Check the mods' pages for default hotkeys and avoid conflicts with the vanilla game. [Key Code Reference](https://www.nexusmods.com/skyrimspecialedition/articles/7704) may help.
 
 7. Directly modifying the root folder (where `SkyrimSE.exe` is) can get messy. Root Builder keeps things organized without touching the original files. This is why many Wabbajack lists (including ) use `stock game`, which allows you to modify this copy instead.
    
