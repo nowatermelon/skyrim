@@ -79,13 +79,13 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 3. It is highly recommended to download baseline `profiles` and `overwrite` files from [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063) and drop them into the `Bread` folder (where the modlist is installed).
   
-   The `profiles` folder contains a ***pre-configured save*** file named “pm”, which saves you from manually configuring settings like MCM and IED at the start of a new game. Simply use the "Alternate Racemenu" power to redesign your character.
+   The `profiles` folder contains a ***pre-configured save*** file named “pm”, which saves you from configuring settings that can only be set manually. Simply use the "Alternate Racemenu" power to redesign your character.
     
    The `overwrite` folder includes some other settings and generated files such as the community shader cache.
 
 4. Speak to the statue in the starting room, the "Dragonborn" option includes a choice to ***skip the prologue***.
 
-5. If you want to modify specific INI files, you can use the `filter` box under the `Data` section on the right panel in MO2, it will directly display the file with the highest priority.
+5. If you want to modify specific INI files, you can use the `filter` box under the `Data` section on the right panel, it will display the file with the highest priority.
   
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/datafilter.png" width="25%">
    
