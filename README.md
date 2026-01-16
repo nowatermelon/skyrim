@@ -93,22 +93,24 @@ Check the mods' pages for default hotkeys and avoid conflicts with the vanilla g
 3. It is highly recommended to download baseline `profiles` and `overwrite` files from [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063) and drop them into the `Bread` folder (where the modlist is installed).
   
    The `profiles` folder contains a ***pre-configured save*** file named “pm”, which saves you from configuring settings that can only be set manually. Simply use the "Alternate Racemenu" power to redesign your character.
+
+   *Note:If for any reason you choose to start a new game rather than using my provided save, use MCM Recorder to apply my custom MCM settings. But settings for IED, etc., are NOT covered by this.*
     
    The `overwrite` folder includes some other settings and generated files such as the community shader cache.
 
-4. Speak to the statue in the starting room, the "Dragonborn" option includes a choice to ***skip the prologue***.
+5. Speak to the statue in the starting room, the "Dragonborn" option includes a choice to ***skip the prologue***.
 
-5. If you want to modify specific INI files, you can use the `filter` box under the `Data` section on the right panel, it will display the file with the highest priority.
+6. If you want to modify specific INI files, you can use the `filter` box under the `Data` section on the right panel, it will display the file with the highest priority.
   
    <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/datafilter.png" width="25%">
    
    *Note: Be sure to back up or make notes, as these custom changes are often easily forgotten and may cause issues later on.*
 
-6. Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players for help.
+7. Since I play on 16:9 screen with keyboard and mouse, I'm not very familiar with widescreen or controller setups. However, the modlist includes some mods that may be helpful, and you can also ask other players for help.
 
    *Note: Mods supporting non-16:9 resolutions (partial): Lore-Friendly Load Screen Compendium, Oathvein UI*
 
-7. Directly modifying the root folder (where `SkyrimSE.exe` is) can get messy. Root Builder keeps things organized without touching the original files. This is why many Wabbajack lists (including ) use `stock game`, which allows you to modify this copy instead.
+8. Directly modifying the root folder (where `SkyrimSE.exe` is) can get messy. Root Builder keeps things organized without touching the original files. This is why many Wabbajack lists (including ) use `stock game`, which allows you to modify this copy instead.
    
    *Note: Another way is to create an empty mod, create a folder named "Root" inside it, and place anything you want to put in the `stock game` into that `Root` folder instead. See [Root Builder](https://www.nexusmods.com/skyrimspecialedition/mods/31720) and [Wabbajack Wiki](https://wiki.wabbajack.org/modlist_author_documentation/Keeping%20the%20Game%20Folder%20clean.html) for more.*
    
