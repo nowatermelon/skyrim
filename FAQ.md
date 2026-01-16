@@ -10,6 +10,7 @@
 - [Is it save to remove xxx mod?](#is-it-save-to-remove-xxx-mod)
 - [Some enemies are too high level.](#Some-enemies-are-too-high-level)
 - [Wabbajack says something failed to download/low speed.](#Wabbajack-says-something-failed-to-downloadlow-speed)
+- [What needs to be configured when starting a new game?](#what-needs-to-be-configured-when-starting-a-new-game)
 - [Where are the crash logs?](#Where-are-the-crash-logs)
 - [Why is it called bread? I prefer milk.](#Why-is-it-called-bread-I-prefer-milk)
 - [Why is the cave so dark?](#Why-is-the-cave-so-dark)
@@ -69,6 +70,15 @@ Sometimes it might simply be a network issue that clears up on its own after a w
 For files hosted on the [Wabbajack CDN](https://build.wabbajack.org/authored_files), consider manual downloads using the Debug option if speeds are poor.
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/wabbajackcdn.png" width="80%">
+
+[[Top]](#contents)
+
+---
+###  What needs to be configured when starting a new game?
+
+If you are not using the provided save file (pm), you'll need to manually configure these MCM settings: Bathing in Skyrim, GT Softbody, Head Shot, moreHUD, OBody NG, Simple Hunting Overhaul, (PC Head Tracking,) Smoothcam, Spell Hotbar, Widget Addon.
+
+You also need to merge the presets in IED.
 
 [[Top]](#contents)
 
