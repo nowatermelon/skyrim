@@ -95,11 +95,13 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
    *Note: Mods supporting non-16:9 resolutions (partial): Lore-Friendly Load Screen Compendium, Oathvein UI*
 
-<div align="center">Keyboard Layout</div>
+<div align="center">Keybindings</div>
 
-<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/keybind.png">
+<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/keyeng.png">
 
-*Note: Check the mods' pages for key binding changes and avoid conflicts with the vanilla game, and [Key Code Reference](https://www.nexusmods.com/skyrimspecialedition/articles/7704) may help. Besides, not all keys above are functional. For instance, the `Dialogue History` key no longer works because I removed this mod for stability. But I left it as a reminder.*
+<img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/keychs.png">
+
+*Note: Check the mods' pages for default hotkeys and avoid conflicts with the vanilla game. [Key Code Reference](https://www.nexusmods.com/skyrimspecialedition/articles/7704) may help.
 
 7. Directly modifying the root folder (where `SkyrimSE.exe` is) can get messy. Root Builder keeps things organized without touching the original files. This is why many Wabbajack lists (including ) use `stock game`, which allows you to modify this copy instead.
    
