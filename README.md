@@ -41,7 +41,9 @@ Before you ask, see if the [FAQ](https://github.com/nowatermelon/skyrim/blob/mai
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/keychs.png">
 
-*Note: Check the mods' pages for default hotkeys and avoid conflicts with the vanilla game. [Key Code Reference](https://www.nexusmods.com/skyrimspecialedition/articles/7704) may help.
+Check the mods' pages for default hotkeys and avoid conflicts with the vanilla game. 
+
+[Key Code Reference](https://www.nexusmods.com/skyrimspecialedition/articles/7704) may help.
 
 ---
 
