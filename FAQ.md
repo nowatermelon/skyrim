@@ -76,7 +76,7 @@ For files hosted on the [Wabbajack CDN](https://build.wabbajack.org/authored_fil
 ---
 ###  What needs to be configured when starting a new game?
 
-If you are not using the provided save file (pm), you'll need to manually configure these MCM settings: Bathing in Skyrim, GT Softbody, Head Shot, moreHUD, OBody NG, Simple Hunting Overhaul, (PC Head Tracking,) Smoothcam, Spell Hotbar, Widget Addon.
+If for any reason you choose to start a new game rather than using my provided save, use MCM Recorder to apply my custom MCM settings (for Bathing in Skyrim, GT Softbody, Head Shot, moreHUD, OBody NG, Simple Hunting Overhaul, Smoothcam, Spell Hotbar, Widget Addon.)
 
 You also need to merge the presets in IED.
 
