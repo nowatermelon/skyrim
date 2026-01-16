@@ -94,7 +94,7 @@ Check the mods' pages for default hotkeys and avoid conflicts with the vanilla g
   
    The `profiles` folder contains a ***pre-configured save*** file named “pm”, which saves you from configuring settings that can only be set manually. Simply use the "Alternate Racemenu" power to redesign your character.
 
-   *Note:If for any reason you choose to start a new game rather than using my provided save, use MCM Recorder to apply my custom MCM settings. But settings for IED, etc., are NOT covered by this.*
+   *Note: If for any reason you choose to start a new game rather than using my provided save, use MCM Recorder to apply my custom MCM settings. But settings for IED, etc., are NOT covered by this.*
     
    The `overwrite` folder includes some other settings and generated files such as the community shader cache.
 
