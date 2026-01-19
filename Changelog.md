@@ -9,16 +9,20 @@
 ## V2.03
 including but not limited to:
 - C0 Base
+
 add Advanced Mod Search
 add NIF Performance Analyzer
 add Texture Previewer
 - C1 Core
+
 remove redundant Butterflies Land True
 remove redundant Dovahkiin No The Mirmulnir Fix
 - C2 Audio
+
 add Valthume - LIGHT Addon
 add Voice of Dawn
 - C3 Visual
+
 *upgrade Real Weathers to the remastered version
 add Real Rain
 add Critters of Kynareth
@@ -27,9 +31,11 @@ add Diverse apples
 add Tiny Light Placer Hub
 add Next Gen Dragon VFX
 - C4 Makeover
+
 fix some hair distributions
 adjust several hair mods
 - C5 Animation
+
 remove Animated Interactions SKSE
 add Weapon Switch Animation Fix - Behavior Patch Version
 add Goetia Animations - Conditional Shouts Compatibility
@@ -37,6 +43,7 @@ add JellyFish Ultimate Animated Potions NG
 add JellyFish ELDER SCROLL read animation
 add 1st-person weapon check
 - C6 Gameplay
+
 *add Parry for all
 *add Immersive Dialogue Expansion - Thalmor
 *add Val Serano - Pirate Follower and Quest Adventure
@@ -46,6 +53,7 @@ add Beyond Reach revoiced
 add GLENMORIL English Translation
 add Neloth's Tentacle Spell - Experimental Subject
 - C7 Inteface
+
 *remove Quickloot
 *fix more boxed characters for english players
 new main menu video
@@ -59,6 +67,7 @@ add Weapon Damage Display Fix
 add Show Player In Menus - Persistent Zoom Fix
 add Typing Mode
 - C8 Post-content
+
 replace cubemaps
 
 
