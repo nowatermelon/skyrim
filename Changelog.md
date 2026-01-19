@@ -12,7 +12,7 @@ including but not limited to:
 - add Advanced Mod Search
 - add NIF Performance Analyzer
 - add Texture Previewer
-- C1 Core
+### C1 Core
 - remove redundant Butterflies Land True
 - remove redundant Dovahkiin No The Mirmulnir Fix
 ### C2 Audio
