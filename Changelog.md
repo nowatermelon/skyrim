@@ -37,8 +37,8 @@ including but not limited to:
 - add JellyFish ELDER SCROLL read animation
 - add 1st-person weapon check
 ### C6 Gameplay
-- **add Immersive Dialogue Expansion - Thalmor*
-- **add Val Serano - Pirate Follower and Quest Adventure*
+- **add Immersive Dialogue Expansion - Thalmor**
+- **add Val Serano - Pirate Follower and Quest Adventure**
 - remove Headshot Kills
 - add Parry for all
 - add Missives - The Witcher Board HD(LessPoly)
