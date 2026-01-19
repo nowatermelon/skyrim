@@ -4,7 +4,7 @@
 
 - With each release, I provide baseline `profiles` and `overwrite` files on [Nexus](https://www.nexusmods.com/skyrimspecialedition/mods/149063). Back up your own saves first, then use them to replace the provided ones if you want.
 
-- I've outlined the main changes, but some details may not be covered, such as updating existing mods, modifying configuration files, or removing unnecessary content. So if you update manually based on this, you might miss something.
+- I've outlined the main changes, but some details may not be covered, such as updating existing mods, modifying configuration files, generating new outputs, or removing unnecessary content. So if you update manually based on this, you might miss something.
 
 ## V2.03
 including but not limited to:
