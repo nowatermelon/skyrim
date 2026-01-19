@@ -20,20 +20,20 @@
       "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/nowatermelon/skyrim/main/_resources/169cover.webp",
       "readme": "https://github.com/nowatermelon/skyrim/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/bread.wabbajack_8a47e3a8-757d-4e64-a8f6-9ed10963b8b2",
+      "download": "https://authored-files.wabbajack.org/bread.wabbajack_6308d1d0-a10d-4cbc-8312-a8292bbf4e09",
       "machineURL": "BREAD",
       "discordURL": "https://discord.gg/s7UkK85CwE"
     },
     "download_metadata": {
       "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "E3JRTKPJy/A=",
-      "Size": 1673139297,
-      "NumberOfArchives": 2292,
-      "SizeOfArchives": 123811122077,
-      "NumberOfInstalledFiles": 304703,
-      "SizeOfInstalledFiles": 172228891863,
-      "TotalSize": 296040013940
+      "Hash": "tC3F0G103+0=",
+      "Size": 2866722985,
+      "NumberOfArchives": 2309,
+      "SizeOfArchives": 125749425788,
+      "NumberOfInstalledFiles": 344103,
+      "SizeOfInstalledFiles": 184321959646,
+      "TotalSize": 310071385434
     },
-    "version": "2.0.2"
+    "version": "2.0.3"
   }
 ]
