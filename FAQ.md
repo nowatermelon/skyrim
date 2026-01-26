@@ -2,6 +2,7 @@
 
 ## Contents
 (sorted alphabetically)
+- [How do I add mods myself, like NSFW content?](#How-do-I-add-mods-myself-like-NSFW-content)
 - [How do I change the dodge hotkey?](#How-do-I-change-the-dodge-hotkey)
 - [How do I change the resolution?](#how-do-i-change-the-resolution)
 - [How do I change the voice type?](#how-do-i-change-the-voice-type)
@@ -14,6 +15,10 @@
 - [Where are the crash logs?](#Where-are-the-crash-logs)
 - [Why is it called bread? I prefer milk.](#Why-is-it-called-bread-I-prefer-milk)
 - [Why is the cave so dark?](#Why-is-the-cave-so-dark)
+
+---
+### How do I add mods myself, like NSFW content?
+Bread has most of the frameworks ready, including OStim for NSFW content. To add animations, simply rerun Pandora. Use LOOT to sort any new ESPs you install.
 
 ---
 ### How do I change the dodge hotkey?
