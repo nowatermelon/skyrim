@@ -8,6 +8,7 @@
 - [How do I obtain mod items?](#How-do-I-obtain-mod-items)
 - [I can't level up or fast travel.](#I-cant-level-up-or-fast-travel)
 - [Is it save to remove xxx mod?](#is-it-save-to-remove-xxx-mod)
+- [It stays on black screen when I try to load a save.](It-stays-on-black-screen-when-I-try-to-load-a-save)
 - [I’ve run into squares (▢▢▢) instead of text or localization problems.](#Ive-run-into-squares--instead-of-text-or-localization-problems)
 - [Some enemies are too high level.](#Some-enemies-are-too-high-level)
 - [Wabbajack says something failed to download/low speed.](#Wabbajack-says-something-failed-to-downloadlow-speed)
@@ -57,6 +58,12 @@ A quick way to check is after removing the mod, see if any plugins warn about a 
 Even without missing masters, it’s not entirely risk-free and your saves could still run into issues. Better keep backups.
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/missingmaster.png" width="40%">
+
+[[Top]](#contents)
+
+---
+### It stays on black screen when I try to load a save.
+It might be caused by upscaling (I initially selected DLSS + Frame Generation). You can try changing the upscaling section in `overwrite\SKSE\Plugins\CommunityShaders\SettingsUser.json` to match the values in `SettingsDefault.json`.
 
 [[Top]](#contents)
 
