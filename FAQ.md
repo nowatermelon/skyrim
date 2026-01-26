@@ -63,7 +63,7 @@ Even without missing masters, it’s not entirely risk-free and your saves could
 
 ---
 ### It stays on black screen when I try to load a save.
-It might be caused by upscaling (I initially selected DLSS + Frame Generation). You can try changing the upscaling section in `overwrite\SKSE\Plugins\CommunityShaders\SettingsUser.json` to match the values in `SettingsDefault.json`.
+It might be caused by Upscaling (I initially selected DLSS + Frame Generation). You can try changing the Upscaling section in `overwrite\SKSE\Plugins\CommunityShaders\SettingsUser.json` to match the values in `SettingsDefault.json`.
 
 [[Top]](#contents)
 
