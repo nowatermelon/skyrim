@@ -18,7 +18,7 @@
 
 ---
 ### How do I add mods myself, like NSFW content?
-Bread has most of the frameworks ready, including OStim for NSFW content. To add animations, simply rerun Pandora. If you're unsure about the load order, use LOOT to sort any new ESPs you install.
+Bread has most of the frameworks ready, including [OStim](https://www.nexusmods.com/skyrimspecialedition/mods/98163) for NSFW content. Check the mod description when adding animations to see if you need to rerun [Pandora](https://www.nexusmods.com/skyrimspecialedition/mods/133232). If you're unsure about the load order, use [LOOT](https://www.nexusmods.com/site/mods/439) to sort any new ESPs you install.
 
 ---
 ### How do I change the dodge hotkey?
