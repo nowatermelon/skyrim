@@ -1,7 +1,6 @@
 # Bread Frequently Asked Questions
 
 ## Contents
-(sorted alphabetically)
 - [How do I add mods myself, like NSFW content?](#How-do-I-add-mods-myself-like-NSFW-content)
 - [How do I change the dodge hotkey?](#How-do-I-change-the-dodge-hotkey)
 - [How do I change the resolution?](#how-do-i-change-the-resolution)
@@ -9,6 +8,7 @@
 - [How do I obtain mod items?](#How-do-I-obtain-mod-items)
 - [I can't level up or fast travel.](#I-cant-level-up-or-fast-travel)
 - [Is it save to remove xxx mod?](#is-it-save-to-remove-xxx-mod)
+- [I’ve run into squares (▢▢▢) instead of text or localization problems.](#Ive-run-into-squares-▢▢▢-instead-of-text-or-localization-problems)
 - [Some enemies are too high level.](#Some-enemies-are-too-high-level)
 - [Wabbajack says something failed to download/low speed.](#Wabbajack-says-something-failed-to-downloadlow-speed)
 - [What needs to be configured when starting a new game?](#what-needs-to-be-configured-when-starting-a-new-game)
@@ -57,6 +57,12 @@ A quick way to check is after removing the mod, see if any plugins warn about a 
 Even without missing masters, it’s not entirely risk-free and your saves could still run into issues. Better keep backups.
 
 <img src="https://github.com/nowatermelon/skyrim/blob/main/_resources/missingmaster.png" width="40%">
+
+[[Top]](#contents)
+
+---
+### I’ve run into squares (▢▢▢) instead of text or localization problems.
+Something might be missing, feel free to report any issues on [Discord](https://discord.gg/s7UkK85CwE)
 
 [[Top]](#contents)
 
